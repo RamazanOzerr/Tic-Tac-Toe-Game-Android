@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TicTacToeGame</string>
+    <string name="start_button">START GAME</string>
+    <string name="start_text">TIC TAC TOE GAME</string>
+    <string name="multiplayer">MULTIPLAYER</string>
+    <string name="singleplayer">SINGLE PLAYER</string>
+    <string name="developed">DEVELOPED BY</string>
+    <string name="developer">RAMAZAN ÖZER</string>
+    <string name="github">github.com/RamazanOzerr</string>
+    <string name="enter_name">ENTER PLAYER NAMES</string>
+    <string name="player1">PLAYER 1</string>
+    <string name="player2">PLAYER 2</string>
+    <string name="buttonPlayAgain">PLAY AGAIN</string>
+    <string name="buttonHome">HOME</string>
+    <string name="developed_by">DEVELOPED BY RAMAZAN ÖZER</string>
+</resources>

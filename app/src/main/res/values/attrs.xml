@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GameBoard">
+        <attr name="boardColor" format="color"/>
+        <attr name="xColor" format="color"/>
+        <attr name="oColor" format="color"/>
+        <attr name="winningLineColor" format="color"/>
+
+    </declare-styleable>
+
+
+
+</resources>
